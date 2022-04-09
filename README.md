@@ -66,7 +66,7 @@ $ mysql -u root -p
 $ create database NOME_DO_BANCO;
 ```
 
-#### ⚙️ Para a API:
+#### ⚙️ Para a API: 
 
 ##### 🖥️ Configurando .env
 
