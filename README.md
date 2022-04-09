@@ -214,4 +214,4 @@ $ git push origin <nome-da-branch>
 
 ## Licença
 
-Este projeto utiliza a licença NOME_AQUI - veja o arquivo [LICENSE.md]() para mais detalhes.
+Este projeto utiliza a licença [MIT](https://choosealicense.com/licenses/mit/) - veja o arquivo [LICENSE.md](https://github.com/UTFPR-SL/grupo4/blob/main/LICENSE) para mais detalhes.
