@@ -212,6 +212,6 @@ $ git push origin <nome-da-branch>
 </tr></table>
 </center>
 
-## Licença
+## :pencil: Licença
 
 Este projeto utiliza a licença [MIT](https://choosealicense.com/licenses/mit/) - veja o arquivo [LICENSE.md](https://github.com/UTFPR-SL/grupo4/blob/main/LICENSE) para mais detalhes.
