@@ -5,9 +5,6 @@
 
 
 ## Como o projeto é estruturado?
-
-N/A
-
 ## Detalhes sobre NumPy
 
 ### Recursos disponíveis (URLs)
